@@ -1,0 +1,2 @@
+# strat0
+start
